@@ -27,4 +27,4 @@ uvicorn app.main:app --reload
 ```
 
 ## Contact
-Built by **Shebin S Illikkal** — [Shebinsillikkl@gmail.com](mailto:Shebinsillikkl@gmail.com)
+Built by **Shebin S Illikkal** — [Shebinsillikkal@gmail.com](mailto:Shebinsillikkal@gmail.com)
